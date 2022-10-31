@@ -40,7 +40,7 @@
             "required": false
         },
         "HEROKU_APP_NAME": {
-           "description": "اسم اول تطبيق خليتة فوك",
+           "description": "اسم اول تطبيق خليتة ",
            "value": "",
            "required": false
         },
@@ -50,14 +50,14 @@
             "value": "rr8r9"
         },
          "CHANNEL": {
-            "description": "اكتب معرف قناة المطور بدون @",
+            "description": "اكتب معرف قناة المطور بدون @"
             "required": true,
-            "value": "xl444"
+            "value": "xl441"
         },
         "SUDO_USERS": {
             "description": "اكتب ايديات المطورين او اتركها كما هي.",
             "required": true,
-            "value": "1854384004"
+            "value": ""
         },
         "DURATION_LIMIT": {
             "description": "اتركها كما هي!",
